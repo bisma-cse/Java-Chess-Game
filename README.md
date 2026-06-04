@@ -79,14 +79,14 @@ ChessGame/
 ### Prerequisites
 
 * Java JDK 8 or later
-* Any Java IDE (IntelliJ IDEA, Eclipse, NetBeans, VS Code)
+* Any Java IDE (IntelliJ IDEA, VS Code)
 
 ### Steps
 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Java-Chess-Game.git
+git clone https://github.com/bisma-cse/Java-Chess-Game.git
 ```
 
 2. Open the project in your preferred IDE.
@@ -140,13 +140,9 @@ Potential enhancements include:
 
 ## Screenshots
 
-Add screenshots of your application here.
-
-Example:
-
-```md
-![Main Board](images/chess-board.png)
-```
+<img width="1366" height="730" alt="image" src="https://github.com/user-attachments/assets/87f200b3-6bdc-4367-b9ed-9612491b98da" />
+<img width="1366" height="730" alt="image" src="https://github.com/user-attachments/assets/844e8e15-b351-4383-8388-e8bcb78c7296" />
+<img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/a270b1fa-55af-408d-a842-23a2f366c912" />
 
 ---
 
@@ -159,8 +155,8 @@ Sukkur IBA University
 
 ### Connect With Me
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
+* GitHub: https://github.com/bisma-cse
+* LinkedIn: https://linkedin.com/in/bisma-amir
 
 ---
 
